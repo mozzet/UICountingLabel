@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		90482AD02435DB0000703200 /* UICountingLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 90482ACE2435DB0000703200 /* UICountingLabel.h */; };
-		90482AD12435DB0000703200 /* UICountingLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 90482ACF2435DB0000703200 /* UICountingLabel.m */; };
+		9023CE062436BF5A004D94AD /* UICountingLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 9023CE042436BF59004D94AD /* UICountingLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9023CE072436BF5A004D94AD /* UICountingLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 9023CE052436BF5A004D94AD /* UICountingLabel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		90482AC32435DAD900703200 /* UICountingLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = UICountingLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		90482AC72435DAD900703200 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		90482ACE2435DB0000703200 /* UICountingLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UICountingLabel.h; sourceTree = SOURCE_ROOT; };
-		90482ACF2435DB0000703200 /* UICountingLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UICountingLabel.m; sourceTree = SOURCE_ROOT; };
+		9023CDDE2436BCBF004D94AD /* UICountingLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = UICountingLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9023CDE22436BCBF004D94AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9023CE042436BF59004D94AD /* UICountingLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UICountingLabel.h; sourceTree = SOURCE_ROOT; };
+		9023CE052436BF5A004D94AD /* UICountingLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UICountingLabel.m; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		90482AC02435DAD900703200 /* Frameworks */ = {
+		9023CDDB2436BCBF004D94AD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,28 +29,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		90482AB92435DAD900703200 = {
+		9023CDD42436BCBF004D94AD = {
 			isa = PBXGroup;
 			children = (
-				90482AC52435DAD900703200 /* UICountingLabel */,
-				90482AC42435DAD900703200 /* Products */,
+				9023CDE02436BCBF004D94AD /* UICountingLabel */,
+				9023CDDF2436BCBF004D94AD /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		90482AC42435DAD900703200 /* Products */ = {
+		9023CDDF2436BCBF004D94AD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				90482AC32435DAD900703200 /* UICountingLabel.framework */,
+				9023CDDE2436BCBF004D94AD /* UICountingLabel.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		90482AC52435DAD900703200 /* UICountingLabel */ = {
+		9023CDE02436BCBF004D94AD /* UICountingLabel */ = {
 			isa = PBXGroup;
 			children = (
-				90482ACE2435DB0000703200 /* UICountingLabel.h */,
-				90482ACF2435DB0000703200 /* UICountingLabel.m */,
-				90482AC72435DAD900703200 /* Info.plist */,
+				9023CE042436BF59004D94AD /* UICountingLabel.h */,
+				9023CE052436BF5A004D94AD /* UICountingLabel.m */,
+				9023CDE22436BCBF004D94AD /* Info.plist */,
 			);
 			path = UICountingLabel;
 			sourceTree = "<group>";
@@ -58,25 +58,25 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		90482ABE2435DAD900703200 /* Headers */ = {
+		9023CDD92436BCBF004D94AD /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				90482AD02435DB0000703200 /* UICountingLabel.h in Headers */,
+				9023CE062436BF5A004D94AD /* UICountingLabel.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		90482AC22435DAD900703200 /* UICountingLabel */ = {
+		9023CDDD2436BCBF004D94AD /* UICountingLabel */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 90482ACB2435DAD900703200 /* Build configuration list for PBXNativeTarget "UICountingLabel" */;
+			buildConfigurationList = 9023CDE62436BCBF004D94AD /* Build configuration list for PBXNativeTarget "UICountingLabel" */;
 			buildPhases = (
-				90482ABE2435DAD900703200 /* Headers */,
-				90482ABF2435DAD900703200 /* Sources */,
-				90482AC02435DAD900703200 /* Frameworks */,
-				90482AC12435DAD900703200 /* Resources */,
+				9023CDD92436BCBF004D94AD /* Headers */,
+				9023CDDA2436BCBF004D94AD /* Sources */,
+				9023CDDB2436BCBF004D94AD /* Frameworks */,
+				9023CDDC2436BCBF004D94AD /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,24 +84,24 @@
 			);
 			name = UICountingLabel;
 			productName = UICountingLabel;
-			productReference = 90482AC32435DAD900703200 /* UICountingLabel.framework */;
+			productReference = 9023CDDE2436BCBF004D94AD /* UICountingLabel.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		90482ABA2435DAD900703200 /* Project object */ = {
+		9023CDD52436BCBF004D94AD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1140;
 				ORGANIZATIONNAME = Noondate;
 				TargetAttributes = {
-					90482AC22435DAD900703200 = {
+					9023CDDD2436BCBF004D94AD = {
 						CreatedOnToolsVersion = 11.4;
 					};
 				};
 			};
-			buildConfigurationList = 90482ABD2435DAD900703200 /* Build configuration list for PBXProject "UICountingLabel" */;
+			buildConfigurationList = 9023CDD82436BCBF004D94AD /* Build configuration list for PBXProject "UICountingLabel" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,18 +109,18 @@
 				en,
 				Base,
 			);
-			mainGroup = 90482AB92435DAD900703200;
-			productRefGroup = 90482AC42435DAD900703200 /* Products */;
+			mainGroup = 9023CDD42436BCBF004D94AD;
+			productRefGroup = 9023CDDF2436BCBF004D94AD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				90482AC22435DAD900703200 /* UICountingLabel */,
+				9023CDDD2436BCBF004D94AD /* UICountingLabel */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		90482AC12435DAD900703200 /* Resources */ = {
+		9023CDDC2436BCBF004D94AD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -130,18 +130,18 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		90482ABF2435DAD900703200 /* Sources */ = {
+		9023CDDA2436BCBF004D94AD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				90482AD12435DB0000703200 /* UICountingLabel.m in Sources */,
+				9023CE072436BF5A004D94AD /* UICountingLabel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		90482AC92435DAD900703200 /* Debug */ = {
+		9023CDE42436BCBF004D94AD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -197,12 +197,14 @@
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		90482ACA2435DAD900703200 /* Release */ = {
+		9023CDE52436BCBF004D94AD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -251,13 +253,15 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
 		};
-		90482ACC2435DAD900703200 /* Debug */ = {
+		9023CDE72436BCBF004D94AD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -276,11 +280,12 @@
 				PRODUCT_BUNDLE_IDENTIFIER = noondate.UICountingLabel;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		90482ACD2435DAD900703200 /* Release */ = {
+		9023CDE82436BCBF004D94AD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -299,6 +304,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = noondate.UICountingLabel;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -306,25 +312,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		90482ABD2435DAD900703200 /* Build configuration list for PBXProject "UICountingLabel" */ = {
+		9023CDD82436BCBF004D94AD /* Build configuration list for PBXProject "UICountingLabel" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				90482AC92435DAD900703200 /* Debug */,
-				90482ACA2435DAD900703200 /* Release */,
+				9023CDE42436BCBF004D94AD /* Debug */,
+				9023CDE52436BCBF004D94AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		90482ACB2435DAD900703200 /* Build configuration list for PBXNativeTarget "UICountingLabel" */ = {
+		9023CDE62436BCBF004D94AD /* Build configuration list for PBXNativeTarget "UICountingLabel" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				90482ACC2435DAD900703200 /* Debug */,
-				90482ACD2435DAD900703200 /* Release */,
+				9023CDE72436BCBF004D94AD /* Debug */,
+				9023CDE82436BCBF004D94AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 90482ABA2435DAD900703200 /* Project object */;
+	rootObject = 9023CDD52436BCBF004D94AD /* Project object */;
 }

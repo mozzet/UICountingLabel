@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "90482AC22435DAD900703200"
+               BlueprintIdentifier = "9023CDDD2436BCBF004D94AD"
                BuildableName = "UICountingLabel.framework"
                BlueprintName = "UICountingLabel"
                ReferencedContainer = "container:UICountingLabel.xcodeproj">
@@ -50,7 +50,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "90482AC22435DAD900703200"
+            BlueprintIdentifier = "9023CDDD2436BCBF004D94AD"
             BuildableName = "UICountingLabel.framework"
             BlueprintName = "UICountingLabel"
             ReferencedContainer = "container:UICountingLabel.xcodeproj">
